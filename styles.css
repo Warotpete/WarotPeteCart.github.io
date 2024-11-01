@@ -1,0 +1,67 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    color: #000000;
+}
+
+.jumbotron {
+    background-color: #F6EC35;
+    color: #fff;
+    margin-bottom: 4rem;
+    padding: 3rem 2rem;
+    text-align: center;
+}
+
+p1 {
+    font-size: 28px;
+    color: #000000;
+}
+
+.card{
+    width: 22rem;
+    height: 30rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn{
+    color: #ffffff;
+    background-color:#808080; 
+}
+
+.carousel {
+    margin-left: 1rem;
+    margin-top: 5rem;
+    width: 39rem;
+    height: 25rem;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table th{
+    text-align: left;
+    background-color: #fff;
+    color: #000;
+    padding: 10px 50px 10px 8px;
+    border-style: solid;
+}
+
+table td{
+    background-color: #fff;
+    color: #000;
+    padding: 10px 10px 10px 8px;
+    border-style: solid;
+}
+
+.sidenav {
+  height: 25rem;
+  width: 500px;
+  position: fixed;
+  z-index: 1;
+  top: 9rem;
+  left: 45rem;
+  background-color: #fff;
+  overflow-x: hidden;
+}
